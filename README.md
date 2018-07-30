@@ -5,7 +5,8 @@ From the guide detailed in the following blogs:
 * https://blogs.sap.com/2017/10/06/how-do-you-test-your-groovy-scripts/
 * https://blogs.sap.com/2017/10/02/dark-side-of-groovy-scripting-behind-the-scenes-of-cloud-integration-runtime/
 
-## Binary Full Paths
+## Binary Full Paths (Build 2.42.13)
+
 * /usr/sap/ljs/plugins/com.sap.gw.rt.camel.components.custom-development_1.42.5.sap-01.jar
 * /usr/sap/ljs/plugins/org.apache.camel.camel-core_2.17.4.sap-16.jar
 * /usr/sap/ljs/plugins/com.sap.it.public.api_2.14.0.jar
